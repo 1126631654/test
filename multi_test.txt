@@ -1,1 +1,5 @@
-just a test..
+<<<<<<< HEAD
+just a test.
+=======
+just a test.
+>>>>>>> 72ae853814f98192b9605b2f6e9f2af183b16a83
