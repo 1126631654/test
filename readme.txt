@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick And simple.
 This is a test that implements --no-ff mode.
+This is a multi person collaborative test.
